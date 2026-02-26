@@ -12,7 +12,7 @@ body {
 }
 
 .hero {
-    background: linear-gradient(135deg,#0f172a,#1e40af,#3b82f6);
+    background: linear-gradient(to right, black, navy);
     color: white;
     padding: 40px 0px 80px;
 }
@@ -291,6 +291,7 @@ html,body {
   padding: 0;
   overflow-x: hidden;
 }
+
 
 
 
